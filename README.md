@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Miguel-Leite&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
+- 🔥 Web Developer
 
-- 🔭 I’m currently working at [Miguel-Leite](https://github.com/Miguel-Leite)
+- 🔭 I’m currently working at [Snir-soft-solution](https://github.com/Snir-soft-solution)
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, PHP, Laravel, Codeigniter, Python, Django, Flask, Node.JS,...**
 
@@ -44,12 +44,13 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Miguel-Leite&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Leite&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Miguel-Leite&show_icons=true&theme=vision-friendly-dark" alt="Miguel-Leite's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Leite&layout=compact&theme=vision-friendly-dark" alt="Miguel-Leite's most languages"/>
 </p>
 
 <br><br>
 
+<img align="left" src="https://github.com/AlienDev66/AlienDev66/blob/master/undraw_developer_activity_bv83.svg" alt="Illustration of AlienDev66" width=265px height=265px/>
 
 <!--
 **Miguel-Leite/Miguel-Leite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
