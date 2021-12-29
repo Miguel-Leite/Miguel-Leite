@@ -1,4 +1,5 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Miguel Leite</h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Miguel-Leite&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
@@ -14,6 +15,7 @@
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Jquery](https://img.shields.io/badge/-Jquery-05122A?style=flat&logo=jquery)&nbsp;
 ![Reactjs](https://img.shields.io/badge/-Reactjs-05122A?style=flat&logo=reactjs)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -35,6 +37,7 @@
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Flask](https://img.shields.io/badge/-Graphql-05122A?style=flat&logo=grpahql)&nbsp;
+![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;
 
 <br><br>
 
