@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=Miguel-Leite&show_icons=true&theme=dracula&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Leite&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Miguel-Leite's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miguel-Leite&count_private=true&show_icons=true&theme=radical)
 
 **Languages and Tools:**
 <br />
@@ -38,7 +40,3 @@ Here are some ideas to get you started:
 
 <p><img src="https://komarev.com/ghpvc/?username=Miguel-Leite" alt="Miguel-Leite" /> </p>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Leite&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Cientista-Avogadro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miguel-Leite&count_private=true&show_icons=true&theme=radical)
