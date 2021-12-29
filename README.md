@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Leite&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" src="https://github.com/AlienDev66/AlienDev66/blob/master/undraw_developer_activity_bv83.svg" alt="Illustration of AlienDev66" width=265px height=265px/>
 
 ![Miguel-Leite's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miguel-Leite&count_private=true&show_icons=true&theme=radical)
 
@@ -39,4 +39,6 @@ Here are some ideas to get you started:
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 
 <p><img src="https://komarev.com/ghpvc/?username=Miguel-Leite" alt="Miguel-Leite" /> </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Leite&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
