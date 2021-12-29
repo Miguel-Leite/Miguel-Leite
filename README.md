@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://github.com/AlienDev66/AlienDev66/blob/master/undraw_developer_activity_bv83.svg" alt="Illustration of AlienDev66" width=265px height=265px/>
-
 ![Miguel-Leite's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miguel-Leite&count_private=true&show_icons=true&theme=radical)
 
 **Languages and Tools:**
@@ -42,3 +40,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Leite&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<p>
+<img align="right" src="https://github.com/AlienDev66/AlienDev66/blob/master/undraw_developer_activity_bv83.svg" alt="Illustration of AlienDev66" width=265px height=265px/>
+</p>
