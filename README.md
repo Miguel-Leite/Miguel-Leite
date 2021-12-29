@@ -38,6 +38,7 @@
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Flask](https://img.shields.io/badge/-Graphql-05122A?style=flat&logo=grpahql)&nbsp;
 ![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 
 <br><br>
 
