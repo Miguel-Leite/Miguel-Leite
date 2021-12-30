@@ -57,11 +57,11 @@
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <p align="left">
-<a href="https://www.facebook.com/miguel.leite.1217/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-@miguelleite-05122A?style=flat&logo=facebook" alt="facebook"/>
-</a>
 <a href="https://www.linkedin.com/in/ant%C3%B3nio-gabriel-066b7a1a4/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-@miguelleite-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.facebook.com/miguel.leite.1217/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-@miguelleite-05122A?style=flat&logo=facebook" alt="facebook"/>
 </a>
 </p>
 
