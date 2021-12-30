@@ -45,9 +45,11 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<img align="right" width="470em" src="https://github-readme-stats.vercel.app/api?username=Miguel-Leite&show_icons=true&theme=vision-friendly-dark" alt="Miguel-Leite's stats"/>
-<img align="left" width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Leite&layout=compact&theme=vision-friendly-dark" alt="Miguel-Leite's most languages"/>
+
+
 </p>
+<img align="left" width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Leite&layout=compact&theme=vision-friendly-dark" alt="Miguel-Leite's most languages"/>
+<img align="right" width="470em" src="https://github-readme-stats.vercel.app/api?username=Miguel-Leite&show_icons=true&theme=vision-friendly-dark" alt="Miguel-Leite's stats"/>
 
 <br><br>
 
