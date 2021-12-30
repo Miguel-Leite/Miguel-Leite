@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Miguel Leite</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Miguel-Leite&color=yellow" alt="Profile views" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Miguel-Leite&color=yellow" alt="Profile views" /> </p> -->
 
 - 🔥 Web Developer
 
@@ -50,6 +50,21 @@
 </p>
 
 <br><br>
+
+## 👨🏽‍🦲 &nbsp;Social Links
+
+<p align="left">
+<a href="https://www.facebook.com/miguel.leite.1217/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-@miguelleite-05122A?style=flat&logo=facebook" alt="facebook"/>
+</a>
+<a href="https://www.linkedin.com/in/ant%C3%B3nio-gabriel-066b7a1a4/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-@miguelleite-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+</p>
+
+<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
+
+
 
 <!-- <img align="left" src="https://github.com/AlienDev66/AlienDev66/blob/master/undraw_developer_activity_bv83.svg" alt="Illustration of AlienDev66" width=265px height=265px/>
  -->
