@@ -45,14 +45,14 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Miguel-Leite&show_icons=true&theme=vision-friendly-dark" alt="Miguel-Leite's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Leite&layout=compact&theme=vision-friendly-dark" alt="Miguel-Leite's most languages"/>
+<img align="left" width="530em" src="https://github-readme-stats.vercel.app/api?username=Miguel-Leite&show_icons=true&theme=vision-friendly-dark" alt="Miguel-Leite's stats"/>
+<img align="right" width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Leite&layout=compact&theme=vision-friendly-dark" alt="Miguel-Leite's most languages"/>
 </p>
 
 <br><br>
 
-<img align="left" src="https://github.com/AlienDev66/AlienDev66/blob/master/undraw_developer_activity_bv83.svg" alt="Illustration of AlienDev66" width=265px height=265px/>
-
+<!-- <img align="left" src="https://github.com/AlienDev66/AlienDev66/blob/master/undraw_developer_activity_bv83.svg" alt="Illustration of AlienDev66" width=265px height=265px/>
+ -->
 <!--
 **Miguel-Leite/Miguel-Leite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
