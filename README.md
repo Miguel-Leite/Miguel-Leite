@@ -4,7 +4,7 @@
 
 - 🔥 Web Developer
 
-- 🔭 I’m currently working at [Snir-soft-solution](https://github.com/Snir-soft-solution)
+<!-- - 🔭 I’m currently working at [Snir-soft-solution](https://github.com/Snir-soft-solution) -->
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, PHP, Laravel, Codeigniter, Python, Django, Flask, Node.JS,...**
 
